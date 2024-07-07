@@ -5,4 +5,4 @@ The whole goal of this project is to provide a suitable doctor quickly, especial
  The link: If the payment process is completed, the payment completion process page appears, and if the payment is not completed, the payment is not completed page appears.
  Secondly, he can log in as long as his subscription to this system continues. 2- He can manage and confirm his reservations, and he also has the right to evaluate the reservation, 
  and the patient can also write to this. The doctor is via chat, and the doctor can see his messages and send the Zoom link in case of online detection
- and for more details you can communicate with me on this gmail: tareknehal904@gmail.com
+ and for more details you can communicate with me on this gmail: tareknehal904@gmail.com and also this is a DriveLink for all points in project https://drive.google.com/file/d/1ibqtksmNOGDfgw-Pch8HgacZa8HueqmU/view?usp=sharing
